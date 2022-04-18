@@ -1,32 +1,20 @@
 [
     {
       "_id": "1",
-      "picture": "https://i.ibb.co/VwwzbNQ/girl2.png",
-      "name": "Noreen Pena",
-      "about": "Est velit cillum est nulla in esse excepteur dolore fugiat ipsum cillum ea ullamco. Consequat magna qui mollit nisi id laboris occaecat ipsum voluptate excepteur aliqua. Veniam enim aute consequat cupidatat adipisicing sunt Lorem id irure esse ex.\r\n"
+      "picture": "https://i.ibb.co/0hMBTzx/online-learning.jpg",
+      "name": "Online Learning",
+      "about": "online sessions let you learn from home and you can access the content at anytime. "
     },
     {
       "_id": "2",
-      "picture": "https://i.ibb.co/dcbWtXG/boy.png",
-      "name": "Jami Hull",
-      "about": "Adipisicing mollit anim nulla ipsum aliqua cillum. Sit adipisicing duis incididunt enim dolor nisi elit ullamco do excepteur ex proident. Sunt est do fugiat tempor laborum pariatur mollit nulla.\r\n"
+      "picture": "https://i.ibb.co/qpsDg3R/team-learning.jpg",
+      "name": "Team Learning",
+      "about": "Multiple branches at your own place helps you learn about you with more people and makes your learning more effective!"
     },
     {
       "_id": "3",
-      "picture": "https://i.ibb.co/8sXJ7mH/girl-pic.png",
-      "name": "Keisha Jennings",
-      "about": "Do laboris cillum ut magna eu labore anim et magna proident veniam minim. Proident non aute labore Lorem nisi velit consectetur dolor. Commodo elit adipisicing anim cupidatat.\r\n"
-    },
-    {
-      "_id": "4",
-      "picture": "https://i.ibb.co/BVc5skQ/girl3.png",
-      "name": "Castaneda Mcmahon",
-      "about": "Aliqua do sunt nostrud tempor sint ea amet duis id fugiat consequat et. Nulla nisi tempor sunt consequat nisi occaecat Lorem cupidatat. Proident pariatur cupidatat dolore consequat velit sint nulla velit non fugiat minim ex sit. Enim elit incididunt ipsum amet.\r\n"
-    },
-    {
-      "_id": "5",
-      "picture": "https://i.ibb.co/mXCmrvq/boy2.png",
-      "name": "Jenna Hodge",
-      "about": "Dolore dolor ipsum occaecat consectetur dolore labore sit. Cupidatat ut occaecat sint id sint. Cillum dolore ea adipisicing deserunt aute commodo amet qui aliquip.\r\n"
+      "picture": "https://i.ibb.co/yShm8zr/personal-training.jpg",
+      "name": "Personal Training",
+      "about": "Personal Training provides a better experience in learning and personal care with a personal trainer coming at your home whenever it's possible for you."
     }
-  ]
+]  
