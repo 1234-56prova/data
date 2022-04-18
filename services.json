@@ -2,17 +2,20 @@
     {
       "_id": "1",
       "picture": "https://i.ibb.co/0hMBTzx/online-learning.jpg",
+      "price": 320,
       "name": "Online Learning",
       "about": "online sessions let you learn from home and you can access the content at anytime. "
     },
     {
       "_id": "2",
       "picture": "https://i.ibb.co/qpsDg3R/team-learning.jpg",
+      "price": 300,
       "name": "Team Learning",
       "about": "Multiple branches at your own place helps you learn about you with more people and makes your learning more effective!"
     },
     {
       "_id": "3",
+      "price": 400,
       "picture": "https://i.ibb.co/yShm8zr/personal-training.jpg",
       "name": "Personal Training",
       "about": "Personal Training provides a better experience in learning and personal care with a personal trainer coming at your home whenever it's possible for you."
