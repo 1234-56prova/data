@@ -1,0 +1,74 @@
+[
+    {
+        "sold": false,
+        "image": "https://i.ibb.co/vXQW9Fr/101essays.jpg",
+        "price": 10,
+        "name": "101 essays that will change the way you think",
+        "supplier": "GENESYNK",
+        "quantity": 536,
+        "description": "Brianna Wiest explores pursuing purpose over passion, embracing negative thinking, seeing the wisdom in daily routine, and becoming aware of the cognitive biases that are creating the way you see your life. This book contains never before seen pieces as well as some of Brianna's most popular essays, all of which just might leave you thinking: this idea changed my life."
+    },
+    {
+        "sold": false,
+        "image": "https://i.ibb.co/bLR86nn/atomic-habits.jpg",
+        "price": 6,
+        "name": "Atomic Habits",
+        "supplier": "WAAB",
+        "quantity": 261,
+        "description": "No matter your goals, Atomic Habits offers a proven framework for improving - every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results."
+    },
+    {
+        "sold": true,
+        "image": "https://i.ibb.co/QPV68y6/meaning.jpg",
+        "price": 4,
+        "name": "Man search for meaning",
+        "supplier": "PASTURIA",
+        "quantity": 843,
+        "description": "Internationally renowned psychiatrist, Viktor E. Frankl, endured years of unspeakable horror in Nazi death camps. During, and partly because of, his suffering, Dr. Frankl developed a revolutionary approach to psychotherapy known as logotherapy. At the core of his theory is the belief that man's primary motivational force is his search for meaning."
+    },
+    {
+        "sold": true,
+        "image": "https://i.ibb.co/WpmNDNw/power-Of-Habit.jpg",
+        "price": 5,
+        "name": "Power Of Habits",
+        "supplier": "XOGGLE",
+        "quantity": 269,
+        "description": "In The Power of Habit, award-winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. Distilling vast amounts of information into engrossing narratives that take us from the boardrooms of Procter & Gamble to the sidelines of the NFL to the front lines of the civil rights movement"
+    },
+    {
+        "sold": true,
+        "image": "https://i.ibb.co/JcFWSjT/want.jpg",
+        "price": 2,
+        "name": "Anything You Want",
+        "supplier": "TWIGGERY",
+        "quantity": 887,
+        "description": "When Derek Sivers started CD Baby, he wasn’t planning on building a major business. He was a successful independent musician who just wanted to sell his CDs online. When no one would help him do it, he set out on his own and built an online store from scratch."
+    },
+    {
+        "sold": false,
+        "image": "https://i.ibb.co/KxsDqtp/cheese.jpg",
+        "price": 18,
+        "name": "Who moved my cheese?",
+        "supplier": "PROSURE",
+        "quantity": 420,
+        "description": "Exploring a simple way to take the fear and anxiety out of managing the future, Who Moved My Cheese? can help you discover how to anticipate, acknowledge, and accept change in order to have a positive impact on your job, your relationships, and every aspect of your life."
+    },
+    {
+        "sold": true,
+        "image": "https://i.ibb.co/yfXM3Gf/slowDown.jpg",
+        "price": 5,
+        "name": "Things you can only see when you slow down",
+        "supplier": "ECOSYS",
+        "quantity": 406,
+        "description": "The world moves fast, but that doesn't mean we have to. In this best-selling mindfulness guide - it has sold more than three million copies in Korea, where it was a number-one best-seller for 41 weeks and received multiple best book of the year awards"
+    },
+    {
+        "sold": false,
+        "image": "https://i.ibb.co/nBGq9H0/imperfect.jpg",
+        "price": 13,
+        "name": "Love for imperfect things",
+        "supplier": "INSURESYS",
+        "quantity": 832,
+        "description": "The world could surely use a little more love, a little more compassion, and a little more wisdom. In Love for Imperfect Things,Haemin Sunim shows us how to cultivate all three, and to find beauty in the most imperfect of things - including your very own self"
+    }
+]
